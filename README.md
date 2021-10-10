@@ -3,12 +3,14 @@
 This is the public repository for the IACS `C`/`C++` primer.  The primer
 consists of 10 lectures held in week 42/43 in October 2021:
 
->      Mo Tu We Th Fr Sa Su
-> Oct  27 28 29 30  1  2  3
->  40   4  5  6  7  8  9 10
->  41  11 12 13 14 15 16 17
->  42  18 19 20 21 22 23 24
->  43  25 26 27 28 29 30 31
+```text
+     Mo Tu We Th Fr Sa Su
+Oct  27 28 29 30  1  2  3
+ 40   4  5  6  7  8  9 10
+ 41  11 12 13 14 15 16 17
+ 42  18 19 20 21 22 23 24
+ 43  25 26 27 28 29 30 31
+```
 
 The primer is intended to refresh language features for `C`/`C++`.  A previous
 class taken for either language or experience gathered through other means is
