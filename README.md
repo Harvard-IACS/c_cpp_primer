@@ -63,8 +63,8 @@ Lectures 1-4 discuss basic concepts that were firs introduced in `C`.  Lectures
 #### Lecture 5 (10/22/2021)
 * Object Oriented versus Data Oriented designs / Where is `C++` good at and
   where can it hurt you
-* Classes: Constructors / Destructors / Members / Attributes / Initializer lists
-* Data Encapsulation / Difference to procedural programming
+* Classes: Constructors / Initializer lists / Destructors / Members / Attributes
+* Access modifiers
 
 #### Lecture 6 (10/25/2021)
 * Resource Acquisition Is Initialization (RAII)
@@ -72,7 +72,6 @@ Lectures 1-4 discuss basic concepts that were firs introduced in `C`.  Lectures
 * Inheritance and the `this` pointer
 
 #### Lecture 7 (10/26/2021)
-* Access modifiers
 * Base class pointer
 * Polymorphism and interfaces
 
