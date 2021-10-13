@@ -19,6 +19,7 @@ assumed.
 ## Schedule and Location
 
 Location: **SEC LL2.224 SU Family Classroom**
+
 Time: **6:30PM - 7:30PM**
 
 Date:
