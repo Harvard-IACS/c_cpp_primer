@@ -18,7 +18,12 @@ assumed.
 
 ## Schedule and Location
 
-Location **TBD**.
+Location: **SEC LL2.224 SU Family Classroom**
+Time: **6:30PM - 7:30PM**
+
+Date:
+* 10/18 - 10/22 (week 42)
+* 10/25 - 10/29 (week 43)
 
 _**Meeting times:**_  The mini-class takes place during calendar **week 42 and
 43**.  Lectures are held on each week day (Mon-Fri) from **6:30PM - 7:30PM**
