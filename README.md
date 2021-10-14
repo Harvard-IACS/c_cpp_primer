@@ -33,7 +33,7 @@ padding regarding the 60 minute duration).
 
 ### Lecture Content
 
-Lectures 1-4 discuss basic concepts that were firs introduced in `C`.  Lectures
+Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 5-10 focus on `C++` specific language features that are not available in `C`.
 
 <!-- lectures:
