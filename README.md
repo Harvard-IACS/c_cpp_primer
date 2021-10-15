@@ -78,8 +78,9 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 * Inheritance and the `this` pointer
 
 #### Lecture 7 (10/26/2021)
-* Base class pointer
+* Base class pointers
 * Polymorphism and interfaces
+* `virtual` methods
 
 #### Lecture 8 (10/27/2021)
 * Abstract base classes
