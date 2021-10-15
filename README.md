@@ -55,10 +55,10 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 
 #### Lecture 3 (10/20/2021)
 * Pointers and dereference operator
-* References (C++ specific)
+* References (`C++` specific)
 * Basic operators and operator precedence
 * Functions and function pointers
-* Anonymous functions / Lambdas (C++ specific)
+* Anonymous functions / Lambdas (`C++` specific)
 
 #### Lecture 4 (10/21/2021)
 * Function arguments: Pass-by-value / Pass-by-reference
@@ -84,12 +84,12 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 
 #### Lecture 8 (10/27/2021)
 * Abstract base classes
-* Pure virtual methods
+* Pure `virtual` methods
 * Operator overriding
 
 #### Lecture 9 (10/28/2021)
 * Generic programming
-* C++ templates
+* `C++` templates
 * Implementation approaches
 
 #### Lecture 10 (10/29/2021)
