@@ -86,6 +86,7 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 * Abstract base classes
 * Pure `virtual` methods
 * Operator overriding
+* `C++11` extension modules for `python`
 
 #### Lecture 9 (10/28/2021)
 * Generic programming
