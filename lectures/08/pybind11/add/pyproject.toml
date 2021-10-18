@@ -1,0 +1,14 @@
+[build-system]
+requires = ["mesonpep517"]
+build-backend = "mesonpep517.buildapi"
+
+[tool.mesonpep517.metadata]
+author = "Fabian Wermelinger"
+author-email = "fabianw@seas.harvard.edu"
+classifiers = [
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+]
+platforms = "py3"
+requires-python = "py3"
+summary = "Demo extension module for pybind11"
