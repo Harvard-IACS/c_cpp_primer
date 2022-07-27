@@ -43,15 +43,22 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 #### Lecture 1 (10/18/2021)
 * Procedural languages and Object Oriented Programming / General overview
 * Compiled languages / Stages of code compilation / Get to know your compiler
-* How to organize code in files / Headers, circular inclusion and header guards
-  / Compilation units
 * Building code / `make` / `meson` / `cmake`
+<!-- * How to organize code in files / Headers, circular inclusion and header guards / Compilation units -->
+<!-- Notes:
+* Book recommendations
+* cppreference.com
+-->
 
 #### Lecture 2 (10/19/2021)
 * Basic built-in types
 * Arrays
 * Pointers
 * Pointers are not arrays
+<!-- Notes:
+* built-in types: discuss integer division, floating point precision, machine
+  epsilon
+-->
 
 #### Lecture 3 (10/20/2021)
 * Pointers and dereference operator
@@ -59,6 +66,10 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 * Basic operators and operator precedence
 * Functions and function pointers
 * Anonymous functions / Lambdas (`C++` specific)
+<!-- Notes:
+* Function signatures
+* C++ <functional>
+-->
 
 #### Lecture 4 (10/21/2021)
 * Function arguments: Pass-by-value / Pass-by-reference
@@ -81,6 +92,9 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 * Base class pointers
 * Polymorphism and interfaces
 * `virtual` methods
+<!-- Notes:
+* virtual destructor!
+-->
 
 #### Lecture 8 (10/27/2021)
 * Abstract base classes
@@ -95,3 +109,7 @@ Lectures 1-4 discuss basic concepts that were first introduced in `C`.  Lectures
 
 #### Lecture 10 (10/29/2021)
 * Standard Template Library (STL)
+<!-- Notes:
+* Algorithms / Containers / Iterators / Functions
+Depth depends on available time
+-->
