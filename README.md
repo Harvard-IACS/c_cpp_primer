@@ -7,11 +7,13 @@ or experience gathered through other means is assumed.
 
 ## Schedule and Location
 
-Location: TBD
+Location: SEC LL2.224 SU Family Classroom
 
-Time: **5:00PM - 6:00PM**
+Time: **5:30PM - 6:45PM**
 
-Date: TBD
+Date: 09/19 - 09/30 (calendar week 38 and 39)
+
+_**Meeting times:**_  Lectures are held on each week day Monday to Friday.
 
 
 ### Lecture Content
