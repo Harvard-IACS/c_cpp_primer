@@ -1,9 +1,18 @@
-# IACS `C`/`C++` Primer
+# SEAS `C`/`C++` Primer
 
-This is the public repository for the IACS `C`/`C++` primer.  The primer
-consists of 10 lectures covering the basics of `C` and `C++`. The class is
-intended to refresh these languages.  A previous class taken for either language
-or experience gathered through other means is assumed.
+This primer class is **voluntary and not graded**.  It will consist of lecture
+components that teach you the essentials along with embedded hands-on exercises
+that will take place interactively during class.  You are required to bring your
+laptop and should have some intuition and comfort in using the command line
+(know how to navigate, create files and directories as well as being able to
+edit files with an editor or IDE of your choice). You will not be given homework
+for this class.
+
+The class consists of 10 lectures at 75 minutes duration.  These lectures will
+be held in the evening to avoid possible conflicts with your schedule. A
+previous class taken for either language or experience gathered through other
+means may be helpful.
+
 
 ## Schedule and Location
 
@@ -15,6 +24,24 @@ Date: 09/19 - 09/30 (calendar week 38 and 39)
 
 _**Meeting times:**_  Lectures are held on each week day Monday to Friday.
 
+### Registration
+
+You can register for the class by joining our mailing list. You can enroll the
+class by sending an email to
+
+> `code-primer+subscribe@g.harvard.edu`  
+> _(subscribe by sending a blank email to this address; **use the email address
+> associated with your HarvardID**)_
+
+You will be asked to _confirm_ your enrollment.
+
+If you have questions about the class, you can send an email to the class
+mailing list
+
+> `code-primer@g.harvard.edu`
+
+Messages will be sent to _all_ subscribed students such that they can benefit
+from your question as well.
 
 ### Lecture Content
 
